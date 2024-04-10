@@ -1,4 +1,4 @@
-# bookbot
+# Description
 Using Boot.dev project  to work on and learn programming. 
 # Objective
 * Configure a professional Python development environment on your local computer
